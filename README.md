@@ -9,3 +9,9 @@ Note -
 > The outputs are csv files.
 
 > The visualized graphs and charts are done in Tableau for better represenataion of output data.
+
+Application Used -
+*Flume (To gather data from twitter through twitter api)
+* HDFS (Store the gathered data.)
+* Hive (For twitter data analysis gathered through flume)
+* Tableau (Visualize the analized data.)
